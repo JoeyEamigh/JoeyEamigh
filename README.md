@@ -5,6 +5,7 @@
 * HTML (but is it actually a language?)
 * CSS
 * JS
+* PHP (I don't hate it don't hate me)
 * ReactJS
 * NodeJS
 * ExpressJS
