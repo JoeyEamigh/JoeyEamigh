@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi! I'm Joey Eamigh
 
-<!--
-**JoeyEamigh/JoeyEamigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Frameworks that I know
 
-Here are some ideas to get you started:
+* HTML (but is it actually a language?)
+* CSS
+* JS
+* ReactJS
+* NodeJS
+* ExpressJS
+* SCSS
+* C++ / C# (Soon)
+* Python (After That)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Other than that
+
+* Swift (Basics)
+* Kotlin (Basics)
+
+### Whats my favorite...
+
+* Desktop OS
+    * Windows 10 with WSL
+* Linux Distro
+    * Debian with Xfce
+    * OR
+    * Ubuntu (which is still Debian but hey Gnome is cool)
+* Language
+    * ReactJS at the moment
+
+🔭 I’m currently working on multiple freelanceing projects<br>
+📫 How to reach me: [https://joeyeamigh.com/](https://joeyeamigh.com/) or [https://gotjoey.com/](https://gotjoey.com/)
+
+
