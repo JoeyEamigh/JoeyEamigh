@@ -40,9 +40,9 @@
     * OR
     * Ubuntu (which is still Debian but hey Gnome is cool)
 * Language
-    * ReactJS
+    * JavaScript
 
-🔭 I’m currently working on multiple freelanceing projects<br>
-📫 How to reach me: [https://joeyeamigh.com/](https://joeyeamigh.com/) or [https://gotjoey.com/](https://gotjoey.com/) - but it's best if you just email me at [mailto:joey@joeyeamigh.com](joey@joeyeamigh.com)
+🔭 I’m currently working on Your Turn to Roll app [https://yttr.app](https://yttr.app/)<br>
+📫 How to reach me: [https://joeyeamigh.com/](https://joeyeamigh.com/) or [https://lightningcode.dev/](https://lightningcode.dev/) - but it's best if you just email me at [mailto:joey@joeyeamigh.com](joey@joeyeamigh.com)
 
 
