@@ -24,12 +24,23 @@
 
 ### Not Bad
 
-* C++ / C#
+* C++
+* C#
 
 ### Can Get By
 
 * Swift
+* Objective-C
 * Kotlin
+
+### Want to learn
+
+* Go
+* Rust
+* Ruby/Ruby on Rails
+* Java
+* C (and good memory management to go with it)
+* Assembly (only if I get bored and want to fry my brain)
 
 ### Whats my favorite...
 
