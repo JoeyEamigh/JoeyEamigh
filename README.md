@@ -7,11 +7,11 @@
 * HTML (but is it actually a language?)
 * CSS
 * JS
-* PHP (painnnnnnn)
 * ReactJS
 * NodeJS
 * ExpressJS
 * NestJS
+* Angular
 * SCSS
 * MySQL
 * PostgreSQL
@@ -19,6 +19,7 @@
 * MongoDB
 * React Native
 * Docker / Docker-Compose
+* PHP (painnnnnnn)
 * Python
 * git (duh)
 
