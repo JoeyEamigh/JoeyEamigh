@@ -4,7 +4,7 @@
 
 ### Proficent
 
-* HTML (but is it actually a language?)
+* HTML
 * CSS
 * JS
 * ReactJS
@@ -19,9 +19,9 @@
 * MongoDB
 * React Native
 * Docker / Docker-Compose
-* PHP (painnnnnnn)
+* PHP
 * Python
-* git (duh)
+* git
 
 ### Not Bad
 
@@ -41,7 +41,7 @@
 
 * Go
 * Ruby/Ruby on Rails
-* C (and good memory management to go with it)
+* C
 * Assembly (only if I get bored and want to fry my brain)
 
 🔭 I’m currently working on Your Turn to Roll app [https://yttr.app](https://yttr.app/) and various contracting positions
