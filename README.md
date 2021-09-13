@@ -6,20 +6,21 @@
 
 * HTML
 * CSS
+* SCSS
 * JS
 * ReactJS
-* NodeJS
+* Angular
+* Svelte
+* React Native
 * ExpressJS
 * NestJS
-* Angular
-* SCSS
 * MySQL
 * PostgreSQL
 * TypeORM
 * MongoDB
-* React Native
 * Docker / Docker-Compose
 * PHP
+* NodeJS
 * Python
 * git
 
