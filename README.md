@@ -5,6 +5,7 @@
 ### Proficent
 
 * HTML
+* MJML
 * CSS
 * SCSS
 * JS
