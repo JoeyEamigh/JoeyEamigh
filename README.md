@@ -15,15 +15,21 @@
 * React Native
 * ExpressJS
 * NestJS
+* NextJS
+* Remix
+* TailwindCSS
 * MySQL
 * PostgreSQL
 * TypeORM
 * MongoDB
 * Docker / Docker-Compose
+* Kubernetes
 * PHP
 * NodeJS
 * Python
-* git
+* Grafana / Prometheus / Loki
+* Redis
+* Websockets
 
 ### Not Bad
 
@@ -44,9 +50,9 @@
 * Go
 * Ruby/Ruby on Rails
 * C
-* Assembly (only if I get bored and want to fry my brain)
+* Assembly
 
-🔭 I’m currently working with Beds for Kids [https://bedsforkids.org/](https://bedsforkids.org/) and various contracting positions
+🔭 I’m currently working on fun personal projects, in various contracting positions, and always learning more.
 📫 How to reach me: [https://joeyeamigh.com/](https://joeyeamigh.com/) or [https://lightningcode.dev/](https://lightningcode.dev/) - but it's best if you just email me at [joey@joeyeamigh.com](mailto:joey@joeyeamigh.com)
 
 
