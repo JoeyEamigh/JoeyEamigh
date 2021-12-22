@@ -1,6 +1,6 @@
 # Hi! I'm Joey Eamigh
 
-## Languages, Frameworks, and Software
+## Languages, Frameworks, and Technologies
 
 ### Proficent
 
@@ -21,6 +21,7 @@
 * MySQL
 * PostgreSQL
 * TypeORM
+* Prisma
 * MongoDB
 * Docker / Docker-Compose
 * Kubernetes
