@@ -25,6 +25,7 @@
 * MongoDB
 * Docker / Docker-Compose
 * Kubernetes
+* Swift
 * PHP
 * NodeJS
 * Python
@@ -37,7 +38,6 @@
 * C++
 * C#
 * Java
-* Swift
 
 ### Can Get By
 
