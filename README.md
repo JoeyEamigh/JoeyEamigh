@@ -35,7 +35,9 @@
 
 ### Not Bad
 
+* C
 * C++
+* Rust
 * C#
 * Java
 
@@ -43,17 +45,15 @@
 
 * Objective-C
 * Kotlin
-* Rust
 * Dart
+* Assembly (aarch64)
 
 ### Want to learn
 
 * Go
 * Ruby/Ruby on Rails
-* C
-* Assembly
 
 🔭 I’m currently working on fun personal projects, in various contracting positions, and always learning more.
-📫 How to reach me: [https://joeyeamigh.com/](https://joeyeamigh.com/) or [https://lightningcode.dev/](https://lightningcode.dev/) - but it's best if you just email me at [joey@joeyeamigh.com](mailto:joey@joeyeamigh.com)
+📫 My website: [https://lightningcode.dev/](https://lightningcode.dev/)
 
 
