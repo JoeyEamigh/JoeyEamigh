@@ -29,6 +29,7 @@
 * PHP
 * NodeJS
 * Python
+* Rust
 * Grafana / Prometheus / Loki
 * Redis
 * Websockets
@@ -37,7 +38,6 @@
 
 * C
 * C++
-* Rust
 * C#
 * Java
 
