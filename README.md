@@ -51,7 +51,8 @@
 ### Want to learn
 
 * Go
-* Ruby/Ruby on Rails
+* Ruby
+* Perl
 
 🔭 I’m currently working on fun personal projects, in various contracting positions, and always learning more.
 📫 My website: [https://lightningcode.dev/](https://lightningcode.dev/)
