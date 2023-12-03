@@ -8,4 +8,4 @@ i am a full-stack developer specializing in making large, distributed systems wo
 
 - website: [https://lightningcode.dev/](https://lightningcode.dev/)
 - mastodon: <a rel="me" href="https://mastodon.social/@joeyeamigh">https://mastodon.social/@joeyeamigh</a>
-- bsky: [https://bsky.app/@joeyeamigh.com](https://bsky.app/@joeyeamigh.com)
+- bsky: [https://bsky.app/profile/joeyeamigh.com](https://bsky.app/profile/joeyeamigh.com)
